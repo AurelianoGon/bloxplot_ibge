@@ -5,8 +5,8 @@ Este repositório contém análises realizadas com medidas separatrizes das vari
 
 -----------------------------------------------------------------
 ## Estrutura do Repositório
-* data/: Este diretório contém o arquivo de dados utilizado para as análises.
-* scripts/: Aqui estão os scripts em R utilizados para calcular as medidas separatrizes e gerar visualizações.
+* O banco de dados possui 9 variáveis e 76840 registros e estão disponíveis neste repositório, intitulados como "dados.csv".
+* scripts/ no arquivo boxplot.R estão os scripts para consulta.
 -----------------------------------------------------------------
 ## Análises realizadas na variável (Renda)
 Para a variável Renda, foram calculados os quartis, decis e centis. Essas medidas nos fornecem uma visão detalhada da distribuição da renda na amostra estudada.
