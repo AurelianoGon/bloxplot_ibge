@@ -6,7 +6,7 @@ Este repositório contém análises realizadas com medidas separatrizes das vari
 -----------------------------------------------------------------
 ## Estrutura do Repositório
 * O banco de dados possui 9 variáveis e 76840 registros e estão disponíveis neste repositório, intitulados como "dados.csv".
-* Os scripts estão disponíveis neste repositório e está nomeado como: boxplot.R.
+* Os scripts estão disponíveis neste repositório e foi nomeado como: boxplot.R.
 * Todo o projeto foi desenvolvido com a Linguagem R.
 -----------------------------------------------------------------
 ## Análises realizadas na variável (Renda)
